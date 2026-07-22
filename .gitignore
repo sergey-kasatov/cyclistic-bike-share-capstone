@@ -1,0 +1,33 @@
+# Data (large datasets should not be committed to Git)
+data/
+
+# Virtual environments (local or global environment folders)
+venv/
+.venv/
+env/
+.env/
+*_venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs and editors configuration
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
