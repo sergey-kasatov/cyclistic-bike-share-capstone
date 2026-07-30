@@ -23,7 +23,7 @@ The insights derived from this analysis will help the marketing team design a st
 ---
 
 ## 2. Data Sources & Environment Setup (Prepare)
-We used Cyclistic’s historical trip data from **July 2025 to June 2026** (12 months of public data). The data was retrieved from the public Amazon S3 bucket (`s3://divvy-tripdata`).
+We used Cyclistic's historical trip data from **July 2025 to June 2026** (12 months of public data). The data was retrieved from the public Amazon S3 bucket (`s3://divvy-tripdata`).
 
 - **Original Dataset Size:** 12 CSV files containing approximately **5.93 million rows**.
 - **Tools:** Python 3.12, VS Code, `pandas`, `numpy`, `matplotlib`, and `seaborn`.
